@@ -55,7 +55,24 @@ Este método é responsável por formatar um objeto `LocalTime` no formato "mm:s
 2. Formata o objeto `LocalTime` fornecido de acordo com o formato especificado.
 3. Retorna o tempo formatado como uma string.
 
-=============
 
 ## • Gerenciamento de Dados
+
+Foi criado um arquivo chamado "dados.txt" com cerca de 59 números para simular os dados de um gráfico e validar as implementações da aplicação.
+
+![teste](https://github.com/mv-vieira/desafio-tempo-medio-entre-picos/assets/107760543/cfbc9c58-d788-4b0f-927c-73c0d5f4a208)
+
+E a saída dos dados referente ao arquivo.
+
+![teste2](https://github.com/mv-vieira/desafio-tempo-medio-entre-picos/assets/107760543/567c4c2e-3e28-4e82-9bb9-5a20170a3ad3)
+
+## • Dificuldades de dúvidas
+
+Compreender a dificuldade do desafio que foi proposto e encontrar uma forma mais simples e efetiva de realizar o problema.
+
+## • Meios para executar a aplicação
+
+Para executar este código, é necessário ter o ambiente de desenvolvimento Java (JDK) instalado em sua máquina.
+
+
 
